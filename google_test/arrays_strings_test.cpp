@@ -1,7 +1,7 @@
 #include "pch.h"
 
 // Include your arrays_strings.cpp file here
-#include ""
+#include "C:\Users\rache\OneDrive\Documents\Data Structures and Algorithms\Lab 2\CIS_17C_Lab_02\arrays_strings.cpp"
 
 TEST(SimpleVectorTest, Constructor) {
     SimpleVector vec;
